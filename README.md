@@ -6,6 +6,7 @@
 Pull docker image “hello-world”.:
 - `docker pull hello-world`
 - `docker run hello-world`
+
 Create docker-compose.yaml for container deploying.:
 Створюємо в папці C:\Users\User\Documents\5 курс\1 сем\HL\lab_1 файл docker-compose.yaml
 Deploy container and test the result.:
