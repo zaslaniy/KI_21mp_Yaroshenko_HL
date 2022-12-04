@@ -1,6 +1,7 @@
 # KI_21mp_Yaroshenko_HL
 
 #Лабораторна 1 Docker
+
 Після встановлення Docker на комп'ютер, запускаємо його через додаток.
 #Завдання 1:
 Pull docker image “hello-world”.:
