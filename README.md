@@ -3,22 +3,30 @@
 #Лабораторна 1 Docker
 
 Після встановлення Docker на комп'ютер, запускаємо його через додаток.
+
 #Завдання 1:
+
 Pull docker image “hello-world”.:
 - `docker pull hello-world`
 - `docker run hello-world`
 
 Create docker-compose.yaml for container deploying.:
+
 Створюємо в папці C:\Users\User\Documents\5 курс\1 сем\HL\lab_1 файл docker-compose.yaml
+
 Deploy container and test the result.:
 - `cd C:\Users\User\Documents\5 курс\1 сем\HL\lab_1`
 - `docker-compose -f docker-compose.yaml up`
 
 #Завдання 2:
 
-task_2 :
-- `cd docker_lab/task_2`
-- `sudo docker-compose up`
+Pull docker image “node”.:
+- `docker pull node`
+- `docker run node`
+
+Create docker-compose.yaml for container with lite-server:
+
+
 
 task_3 :
 - `cd docker_lab/task_3`
